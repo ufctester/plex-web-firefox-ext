@@ -1,0 +1,1 @@
+# plex-web-firefox-ext
